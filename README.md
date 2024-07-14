@@ -1,0 +1,1 @@
+Patients-Registration-Dashboard, crafted with HTML, CSS, and JavaScript, is a dynamic and user-friendly interface designed to streamline patient registration processes. It Creates a list  of pateints and we can save it and Print afterwards.
